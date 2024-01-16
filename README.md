@@ -1,7 +1,5 @@
 # Customer-Segmentation-and-Analysis-Using-R
 
-# RetailInsight
-
 ## Overview
 
 RetailInsight is a data analysis and customer segmentation project designed for online retail businesses. The project is exclusively built using the R programming language for data analysis, visualization, and customer segmentation. By understanding customer behavior and segmenting them into meaningful groups, RetailInsight aims to provide actionable insights for enhancing marketing strategies and improving business performance.
